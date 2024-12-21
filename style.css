@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: rgb(0, 187, 255);
+    text-align: center;
+    font-family: cursive
+    
+}
+nav{
+     background-color: rgb(76, 119, 193);
+     text-align: center;
+     margin: 0%;
+}
+nav ul li{
+    display: inline-block;
+    padding: 20px;
+    text-transform: uppercase;
+ 
+
+}
+
+h2{
+    border-bottom: 2px solid rgb(15, 64, 107);
+}
+
+img{
+    display: block;
+margin: 0 auto;
+
+}
+p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 1.3rem;
+
+}
+header h1{
+background-image: url(https://media.istockphoto.com/id/905563616/photo/preparing-chocolate-chip-cookies.jpg?s=2048x2048&w=is&k=20&c=OL02rm4f66nCml2OmkbuUo6HfGMa5I9fKXXpHZlg4So=);
+background-size: cover;
+height: 100px;
+margin: 0px;
+}
+main {
+    width: 800px;
+    display: block;
+    margin: 10px auto;
+    background-color:rgb(147, 182, 228);
+    
+}
+section{
+    margin: 30px 100px;
+    
+}
+iframe{
+    display: block;
+    margin: 10px auto;
+}
+table{
+    margin: 10px auto;
+    height: 100px;
+    width: 800px;
+    border-collapse: collapse;
+}
+p{
+    background-color: rgb(37, 96, 151)
+}
